@@ -22,10 +22,6 @@ C#기반의 응용프로그램과 Spring프레임워크를 활용한 백엔드�
 <a align ="center" href="https://gapal.tistory.com/">
     <img src="http://img.shields.io/badge/Tech Blog-00D182?style=flat&logo=Emby&logoColor=white&link=https://gapal.tistory.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<h3 align ="center">Mail</h3>
-<a align = "center" href="https://330529@naver.com">
-    <img src="http://img.shields.io/badge/mail-EA4335?style=flat&logo=mail&logoColor=white&link=https://330529@naver.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
 </a>
 </div>
