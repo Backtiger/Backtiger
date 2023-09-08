@@ -2,7 +2,7 @@
 <h3>소개</h3>
 다양한 경험을 추구하는 개발자 입니다.<br>
 <br>
-C#기반의 응용프로그램과 Spring프레임워크를 활용한 백엔드개발에 관심이 많습니다.
+C#기반의 응용프로그램과 asp.net core를 활용한 백엔드개발에 관심이 많습니다.
 </div>
 <h3 align = "center ">🛠Skill</h3>
 <div align="center">
