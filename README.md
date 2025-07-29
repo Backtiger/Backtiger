@@ -16,7 +16,7 @@ Linux 환경에서 Docker, CI/CD 파이프라인 구성 등 운영까지 포함�
 
 <h4>📌 Language</h4>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 <br>
