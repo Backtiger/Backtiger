@@ -1,5 +1,5 @@
 <div align="center">
-
+# 안녕하세요 👋
 헬스케어·CRM 도메인에서 백엔드 시스템을 개발합니다.  
 NestJS · TypeScript · ASP.NET Core 기반으로 설계부터 배포·운영까지 경험했습니다.  
 레거시 현대화, 메시징 처리, CI/CD, 모니터링에 관심이 많습니다.
